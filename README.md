@@ -1,6 +1,6 @@
 # mechanical-7-segment-clock-V2
 A large mechanical 7-segment clock using cheap stepper motors. This thing is really big about 135x65cm! 
-If you dont have acces to creating the PCBs or printed parts yourself
+
 
 ![](/Images/Main_photo.jpg)
 ##
